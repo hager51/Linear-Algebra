@@ -1,0 +1,5 @@
+- The Gram-Schmidt Algorithm to change an independent set of vectors into anorthonormal set.
+
+- Determination of eigenvalues and eigenvectors using the characteristic polynomial of a matrix.
+
+- Use of eigenvectors to transform a matrix to diagonal form.
